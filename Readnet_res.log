@@ -1,6 +1,7 @@
-a
-b
-0
+# サーバの起動
+# $ java Netclock
+# クライアントの起動
+# $ java Readnet 127.0.0.1 6000
 
 Hello,this is Netclock server.
 Fri May 19 02:30:36 JST 2017
